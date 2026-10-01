@@ -13,5 +13,6 @@ namespace Tyuiu.GoreykoDV.Sprint1.Task0.V22.Test
 
             Assert.AreEqual(10, res);
         }
+
     }
 }
