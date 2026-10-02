@@ -13,7 +13,7 @@ namespace Tyuiu.GoreykoDV.Sprint1.Task6.V14
 
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #1                                                                *");
-            Console.WriteLine("* Тема: Преобразование типов и класс Convert                               *");
+            Console.WriteLine("* Тема: Работа со строками класс String                                    *");
             Console.WriteLine("* Задание #6                                                               *");
             Console.WriteLine("* Вариант #14                                                              *");
             Console.WriteLine("* Выполнил: Горейко Дарья Владимировна | РППб-26-1                         *");
