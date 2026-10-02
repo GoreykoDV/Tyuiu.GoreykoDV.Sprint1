@@ -13,7 +13,7 @@ namespace Tyuiu.GoreykoDV.Sprint1.Task3.V2
 
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #1                                                                *");
-            Console.WriteLine("* Тема: Арифметические операторы в C#                                      *");
+            Console.WriteLine("* Тема: Операторы составного присваивания                                  *");
             Console.WriteLine("* Задание #3                                                               *");
             Console.WriteLine("* Вариант #2                                                               *");
             Console.WriteLine("* Выполнил: Горейко Дарья Владимировна | РППб-26-1                         *");
