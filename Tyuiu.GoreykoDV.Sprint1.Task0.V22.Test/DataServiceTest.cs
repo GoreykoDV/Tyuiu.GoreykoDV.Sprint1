@@ -8,6 +8,7 @@ namespace Tyuiu.GoreykoDV.Sprint1.Task0.V22.Test
         [TestMethod]
         public void ValidExpression()
         {
+
             DataService ds = new DataService();
             var res = ds.Calculate();
 
